@@ -3,4 +3,4 @@ This is an iOS app that works like a Magic 8 Ball . This is the first iOS app I 
 
 Please direct all issues and sugguestions to the issues tab above.
 
-For all other inquiries, email johnaceto@rutgers.edu
+For all other inquiries, email john.aceto@rutgers.edu
